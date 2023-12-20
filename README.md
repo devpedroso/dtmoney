@@ -1,6 +1,6 @@
 # 📊 Registro de entradas e saídas
 
-Aplicativo para controle de finanças básico, onde é possivel registrar entradas e saídas, desenvolvido como projeto do curso ignite da Rocketseat.
+Aplicativo para controle básico de finanças, onde é possivel registrar entradas e saídas, desenvolvido como projeto do curso ignite da Rocketseat.
 
 ![ezgif com-video-to-gif-converted (2)](https://github.com/devpedroso/Portifolio/assets/47677411/574f9c48-7c7c-4057-851a-4e1a88bebd30)
 
