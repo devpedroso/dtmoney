@@ -21,7 +21,7 @@ Pré-requisitos: npm/yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devpedroso/Portifolio.git
+git clone https://github.com/devpedroso/dtmoney.git
 
 # entrar na pasta do projeto front end
 cd dtmoney
